@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main style={{ padding: 40 }}>
       <h1>Topcertificaten App</h1>
-      <p>Het werkt 🎉</p>
+      <p>Het werkt 🎉 (v2)</p>
     </main>
   );
 }

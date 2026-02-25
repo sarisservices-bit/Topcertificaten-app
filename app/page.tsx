@@ -5,4 +5,4 @@ export default function Home() {
       <p>Het werkt 🎉 (v2)</p>
     </main>
   );
-}
+} 
